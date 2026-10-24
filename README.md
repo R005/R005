@@ -1,44 +1,40 @@
-### Rohan Dayala
+### Hey, I'm Rohan 👋
+
+DevOps engineer. I build on AWS, ship with Terraform and GitLab CI, and run things on Kubernetes.
+
+#### `kubectl describe me`
+
+```yaml
+apiVersion: human/v1
+kind: Engineer
+metadata:
+  name: rohan
+spec:
+  location: ap-south-1 🇮🇳
+  approach: simplicity first, cleverness only when it pays for itself
+  belief: build once, run the same everywhere
+  learningStyle: break it → fix it → understand it
+  exploring: AI-assisted infrastructure
+```
+
+> Curious about why things break, stubborn about making sure they never break the same way twice.
+
+#### 💻 Tech stack
 
 <!--
-**`DevOps Engineer`**
-
-### Skills
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Maven" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_maven_icon_130397.png&f=1&nofb=1&ipt=60d5f0aa04ba98d82fb6e032bbe412e9ae096a339c7e08a7ecd1914445583de3&ipo=images" style="padding-right:10px;" />
-<img align="left" alt="SonarQube" width="26px" src="https://github.com/actions/starter-workflows/blob/main/icons/sonarqube.svg" style="padding-right:10px;" />
-<img align="left" alt="JFrog" width="26px" src="https://github.com/R005/readme-files/blob/main/icons/jfrog.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkeestalkstech.com%2Fwp-content%2Fuploads%2F2019%2F08%2Fbash-logo-300x300.png&f=1&nofb=1&ipt=339fc3f0ff3ba178730739cddf5b0d7ce1ae5ec9331ce04f61afbc9db8c0120e&ipo=images" style="padding-right:10px;" />
-<img align="left" alt="YAML" width="26px" src="https://github.com/R005/readme-files/blob/main/icons/YAML.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-2048x2048-3trjae80.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
----
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 -->
 
-<!--
-Icons used from https://devicon.dev/
--->
+![AWS](aws-badge.svg) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 <!--
-**R005/R005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 💻 Tech stack
+ 
+<p>
+  <img alt="AWS" title="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;<img alt="Terraform" title="Terraform" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Ansible" title="Ansible" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Docker" title="Docker" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Kubernetes" title="Kubernetes" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Helm" title="Helm" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="GitLab" title="GitLab" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Prometheus" title="Prometheus" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Grafana" title="Grafana" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Python" title="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Bash" title="Bash" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;&nbsp;<img alt="Linux" title="Linux" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
