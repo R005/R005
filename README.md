@@ -10,7 +10,7 @@ kind: Engineer
 metadata:
   name: rohan
 spec:
-  location: ap-south-2 🇮🇳
+  location: ap-south-2
   approach: simplicity first, cleverness only when it pays for itself
   belief: build once, run the same everywhere
   learningStyle: break it → fix it → understand it
